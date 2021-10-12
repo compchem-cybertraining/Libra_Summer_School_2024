@@ -27,7 +27,7 @@ permalink: index.html  # Is the only page that doesn't follow the pattern /:path
 
 # Libra Winter School on Excited States and Nonadiabatic Dynamics in Materials 2022
 
-## About the Winter School
+### About the Winter School
 
 The Libra Winter School aims to provide training to graduate students, postdocs, researchers, and educators working in a 
 broader field of nonadiabatic and excited-state dynamics as well as in computational material sciences. The workshop will
@@ -39,7 +39,7 @@ operations, and data analysis. The participants will also learn to use several p
 such as CP2K, Quantum Espresso, and DFTB+/xTB and how these pacakges could be used with Libra to conduct atomistic 
 modeling of the excited states and nonadiabatic dynamics in realistic materials.
 
-Keywords and topics:
+### Keywords and topics
 
 - nonadiabatic dynamics
 - excited states
@@ -55,14 +55,15 @@ Keywords and topics:
 - algorithms and methods
 - software, programming, Python
 
+### Hands-on with software 
  
 The school will leverage the [OnDemand](https://ondemand.ccr.buffalo.edu) gateway at the University at Buffalo and will 
 focus on the following codes:
 
 - [Libra](https://github.com/Quantum-Dynamics-Hub/libra-code/tree/devel) - **primarily**
-- [CP2K]()
-- [DFTB+ and xTB]()
-- [Quantum Espresso]()
+- [CP2K](https://www.cp2k.org/)
+- [DFTB+ and xTB](https://dftbplus.org)
+- [Quantum Espresso](https://www.quantum-espresso.org/)
 
 
 ## Logistics
@@ -201,30 +202,31 @@ The details may vary and the order of topics may be changed, the topics may be o
   </table>
 
 
-## Our team
-### Our instructors
+### Instructor and co-instructors
 
-| Name            | Affiliation         |    Role/Software covered   |
-| --------------- | ------------------- | -------------------------- |
-| [Dr. Alexey Akimov](https://akimovlab.github.io/)         |   University at Buffalo, USA      | Workshop coordinator, Instructor for: **Libra, DFTB+, CP2k** |
+ * [Dr. Alexey Akimov](https://akimovlab.github.io/) - University at Buffalo, USA
+ * [Mr. Mohammad Shakiba]()
 
+### Administrative support
 
-### Our co-instructors/helpers
-
-| Name            | Affiliation         |    Role/Software covered   |
-| --------------- | ------------------- | -------------------------- |
-| Mr. Mohammad Shakiba   |  Shahid Bahonar University of Kerman, Iran   | Co-instructor for: **CP2k, Libra/CP2k** |
-
-
-### The UB Center for Computational Research team
-
-| Name            |   Role/Software covered    |
-| --------------- | -------------------------- |
-| [Ms. Dori Sajdak](http://www.buffalo.edu/ccr/about-us/people/staff/sajdak.html) | UB CCR system administrator, UB VPN, Open OnDemand, HPC accounts, etc. |
+ * [Ms. Dori Sajdak](http://www.buffalo.edu/ccr/about-us/people/staff/sajdak.html)  - UB CCR system administrator, UB VPN, Open OnDemand, HPC accounts, etc.
  
 
-
 ## Participation
+
+### Who can apply
+
+This summer school is primarily for graduate students working in computational 
+modeling of excited states and nonadiabatic dynamics, both in abstract and atomistic
+applications/problems. The school aims to help researchers/students working either in 
+methodology development for nonadiabatic or quantum-classical dynamics and in 
+applied studies of various types of solar energy materials (photovoltaics, photocatalytics, etc.). 
+
+Postdocs and researchers wishing to acquire the practical experience with new simulation
+tools and expand their knowledge in the areas of excited states and nonadiabatic dynamics
+are also welcomed to participate.
+
+
 ### How to apply to the school
 
 1. Read this page carefully
@@ -240,7 +242,7 @@ The details may vary and the order of topics may be changed, the topics may be o
    2.3. request your advisor to submit a letter of recommendation for you to the following email: "alexeyak AT buffalo DOT edu", 
    please replace "AT" and "DOT" with the corresponding characters
 
-3. Complete the <a href="https://forms.gle/kup1bkWibLsHH8Bn7" target="_blank" rel="nofollow">**Registration form**</a>
+3. Complete the <a href="https://forms.gle/5PW6EKwAPHEPy5b6A" target="_blank" rel="nofollow">**Registration form**</a>
 
 
 ### Important dates
@@ -248,21 +250,6 @@ The details may vary and the order of topics may be changed, the topics may be o
    * Applicants are notified of their admission by 5 pm EST, Dec. 10, 2021
    * Workshop starts: 9 am EST, January 10, 2022  (welcome dinner the evening before)
    * Workshop ends: 5 pm EST, January 14, 2022 (departure next day)
-
-
-### Who can apply
-
-This summer school is primarily for graduate students working in computational 
-modeling of excited states and nonadiabatic dynamics, both in abstract and atomistic
-applications/problems. The school aims to help researchers/students working either in 
-methodology development for nonadiabatic or quantum-classical dynamics and in 
-applied studies of various types of solar energy materials (photovoltaics, photocatalytics, etc.). 
-
-Postdocs and researchers wishing to acquire the practical experience with new simulation
-tools and expand their knowledge in the areas of excited states and nonadiabatic dynamics
-are also welcomed to participate.
-
-
 
 
 ### Selection and restrictions

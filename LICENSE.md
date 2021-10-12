@@ -19,8 +19,7 @@ root: .
 
 | Name | Affiliation | Role and Software |
 |------|-----------------------|-------------------|
-| Dr. Alexey Akimov | University at Buffalo (UB), USA | Workshop coordinator, Instructor for **Libra, DFTB+, ErgoSCF, CP2k, QXMD, etc.** |
-| Ms. Jeanette Sperhac | University at Buffalo Center for Computational Research (UB CCR), USA | Workshop coordinator, Instructor for **Jupyter, Open OnDemand, UB CCR HPC** |
+| Dr. Alexey Akimov | University at Buffalo (UB), USA | Workshop coordinator, Instructor for **Libra, DFTB+, ErgoSCF, CP2k, etc.** |
 
 
 
