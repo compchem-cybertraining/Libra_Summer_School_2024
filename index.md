@@ -270,10 +270,10 @@ the use of the methods/tools covered in the workshop may be for your future rese
 
 ### Successful applicants
 
-The successful applicants will be provided with stipends to cover their logging, meal, and travel expenses.
+The successful applicants will be provided with stipends toward covering their logging, meal, and travel expenses.
 
 There is a limit on the travel expenses that we can reimburse, so any extra costs are up for the participants to cover. 
-This is especially the case for any potential international participnats. 
+This is especially the case for any potential international participants. 
 
 
 ### Acknowledgement
