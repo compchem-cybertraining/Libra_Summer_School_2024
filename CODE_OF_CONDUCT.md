@@ -9,42 +9,101 @@ title: "Schedule and Participants"
 * Get an overview of **theoretical background** for corresponding computational methods
 
 
-## Schedule of the workshop
+## Detailed schedule of the workshop
 
-<embed src="files/Schedule.pdf" width="100%" height="500" type='application/pdf'>
+{% include base_path.html %}
 
+The details may vary and the order of topics may be changed, the topics may be omitted or added. Please check for the updates. 
 
-## Project rules
+  <table class="table table-striped">
+  
+  <tr>
+    <td class="col-md-3"><strong>Date</strong></td>
+    <td class="col-md-9"><strong>Topics</strong></td> 
+  </tr>
 
-* Consist of: a) short written report, b) presentation at the last day of workshop; c) set of input/output files deposited on the GitHub repository
-* Should actively involve one of the packages discussed over the workshop period 
-* Preferably not something you have an extensive experience with 
-* Doesn't have to be a full-scale research project, but can be a step towards this direction
-* Projects completed using local or home institution resources are eligible
-* Can be an application of coding project
-* The consistency in your course work during this school will contribute to your chances to win the awards
-* The awards decisions will be made based on the committee evaluation
+  <tr>
+    <td class="col-md-3">January 9, 2022, Sunday</td>
+    <td class="col-md-9">
+      <ul>        
+        <li>Arrivals and Welcome dinner.</li>
+      </ul>
+    </td> 
+  </tr>
+  
+  <tr>
+    <td class="col-md-3">January 10, 2022 (Day 1), Monday</td>
+    <td class="col-md-9">
+      <ul>        
+        <li>Opening. Intro to Jupyter and Python. </li>
+        <li>Introduction to Adiabatic and Nonadiabatic molecular dynamics.</li>
+        <li>Libra installation and testing examples.</li>
+        <li>Classical MD with the force fields in Libra. Exploring PESs.</li>
+      </ul>
+    </td> 
+  </tr>
+
+  <tr>
+    <td class="col-md-3">January 11, 2022 (Day 2), Tuesday</td>
+    <td class="col-md-7">
+      <ul>
+        <li>General overview of the Libra code.</li> 
+        <li>TSH and Ehrenfest dynamics: model Hamiltonians in Libra.</li>
+        <li>Hierarchy of equations of motion (HEOM) calculations with Libra. </li>
+        <li>Wavepacket/DVR calculations with  Libra. </li>
+      </ul>
+    </td>
+  </tr>
+
+  <tr>
+    <td class="col-md-3">January 12, 2022 (Day 3), Wednesday</td>
+    <td class="col-md-9">
+      <ul>
+        <li>Electronic structure theory overview.</li>
+        <li>Libra' semiempirics and built-in integrals.</li>
+        <li>Hands on with Quantum Espresso.</li>
+        <li>Hands on with DFTB+.</li>
+        <li>Hands on with CP2k/xTB.</li>
+      </ul>
+    </td>
+  </tr>
+
+  <tr>
+    <td class="col-md-3">January 13, 2022 (Day 4), Thursday</td>
+    <td class="col-md-9">
+      <ul>
+        <li>Atomistic simulations of NA-MD in materials, using Libra/DFTB+, Libra/cp2k, and Libra/QE interfaces.</li>
+      </ul>
+    </td>
+  </tr>
+
+  <tr>
+    <td class="col-md-3">January 14, 2022 (Day 5), Friday</td>
+    <td class="col-md-9">
+      <ul>
+        <li>Continued: Atomistic simulations of NA-MD in materials, using Libra/DFTB+, Libra/cp2k, and Libra/QE interfaces.</li>
+        <li>Additional capabilities of Libra: introduction to neural networks/machine learning.</li>
+        <li>Closing. Exploring Buffalo.</li>
+      </ul>
+    </td>
+  </tr>
+  
+  <tr>
+    <td class="col-md-3">January 15, 2022, Saturday</td>
+    <td class="col-md-9">
+      <ul>
+        <li>Exploring Buffalo/Departure.</li>
+      </ul>
+    </td>
+  </tr>
+
+  </table>
+
 
 
 ## Participants 
 
-| Number | Name | Role | Institution | Country | Supervisor | Outcome |
-|-----|------|------|-------------|---------|------------|--------|
-
-
-Notes:
->
-> bolded are participants with access to UB HPC; GRA-N - graduate students, N-th year; PD - postdoc; FAC-PHD - faculty at a PhD-granting institution
->
-> `1st, 2nd (2 positions), and 3rd (5 positions) prizes` are won based on students' project presentations and course work documentation
->
-> `graduated` means that student has documented their work via creating their GitHub repository with the corresponding materials
-> these students might or might not have participated in the presentation section (see episode 13)
-> 
-> `attended` means that students have participated in the workshop in some way - either by watching presentations or by following 
-> the course work (hans-on) either on UB system or at their home institutions during the period of the workshop.
->
-
+TO BE ADDED LATER
 
 
 {% include links.md %}

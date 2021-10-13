@@ -1,7 +1,7 @@
 ---
 layout: workshop
-venue: "University at Buffalo, SUNY (virtual)"   # brief name of host site without address (e.g., "Euphoric State University")
-address: "University at Buffalo, SUNY, North Campus (virtual)"     # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
+venue: "University at Buffalo, SUNY"   # brief name of host site without address (e.g., "Euphoric State University")
+address: "University at Buffalo, SUNY, North Campus, Natural Sciences Complex"   # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
 country: "United States"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1#Current_codes)
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes)
 latitude: "43.002890"     # decimal latitude of workshop venue (use https://www.latlong.net/)
@@ -29,15 +29,15 @@ permalink: index.html  # Is the only page that doesn't follow the pattern /:path
 
 ### About the Winter School
 
-The Libra Winter School aims to provide training to graduate students, postdocs, researchers, and educators working in a 
-broader field of nonadiabatic and excited-state dynamics as well as in computational material sciences. The workshop will
-provide conceptual and practical hands-on training in a range of methods for modeling excited state and 
-nonadiabatic dynamics in abstract models and atomistic materials. Nearly all activities will leverage and showcase the 
-capabilities of the Libra code developed by the instructor's group. The will learn to install and use the Libra package for 
-building atomistic models, computing excited states of molecular and periodic systems, as well as pre- and post-processing 
-operations, and data analysis. The participants will also learn to use several popular electronic structure packages
-such as CP2K, Quantum Espresso, and DFTB+/xTB and how these pacakges could be used with Libra to conduct atomistic 
-modeling of the excited states and nonadiabatic dynamics in realistic materials.
+The Libra Winter School aims to provide training to graduate students, postdocs, researchers, and educators working in
+ a broader field of nonadiabatic and excited-state dynamics as well as in computational material sciences. The workshop 
+will provide conceptual and practical hands-on training in a range of methods for modeling excited state and nonadiabatic 
+dynamics in abstract models and atomistic materials. Nearly all activities will leverage and showcase the capabilities of 
+the Libra code developed by the instructors group. They will learn to install and use the Libra package for building 
+atomistic models, computing excited states of molecular and periodic systems, as well as pre- and post-processing operations, 
+and data analysis. The participants will also learn to use several popular electronic structure packages such as CP2K, 
+Quantum Espresso, and DFTB+/xTB and how these packages could be used with Libra to conduct atomistic modeling of the excited 
+states and nonadiabatic dynamics in realistic materials.
 
 ### Keywords and topics
 
@@ -216,16 +216,13 @@ The details may vary and the order of topics may be changed, the topics may be o
 
 ### Who can apply
 
-This summer school is primarily for graduate students working in computational 
-modeling of excited states and nonadiabatic dynamics, both in abstract and atomistic
-applications/problems. The school aims to help researchers/students working either in 
-methodology development for nonadiabatic or quantum-classical dynamics and in 
-applied studies of various types of solar energy materials (photovoltaics, photocatalytics, etc.). 
+This winter school is primarily for graduate students working in computational modeling of excited states and nonadiabatic 
+dynamics, both in abstract and atomistic applications/problems. The school aims to help researchers/students working either 
+in methodology development for nonadiabatic or quantum-classical dynamics and in applied studies of various types of solar 
+energy materials (photovoltaics, photocatalytics, etc.).
 
-Postdocs and researchers wishing to acquire the practical experience with new simulation
-tools and expand their knowledge in the areas of excited states and nonadiabatic dynamics
-are also welcomed to participate.
-
+Postdocs and researchers wishing to acquire practical experience with new simulation tools and expand their knowledge 
+in the areas of excited states and nonadiabatic dynamics are also welcome to participate.
 
 ### How to apply to the school
 
@@ -237,6 +234,7 @@ are also welcomed to participate.
    2.2. a statement of purpose PDF should describe in no more than 2 pages:
 
    * your current/ongoing research projects and interests; 
+
    * if and how you plan to use the Libra software in your research;
          
    2.3. request your advisor to submit a letter of recommendation for you to the following email: "alexeyak AT buffalo DOT edu", 
@@ -254,10 +252,11 @@ are also welcomed to participate.
 
 ### Selection and restrictions
 
-The applicants will be selected based on the strength of their statement of purpose, as well as the adequate 
-support of their supervisors and their level of fundamental preparation. The lack of training in specialized methods and software is not a problem. 
-What is more important is how ready the applicant is to absorb new knowlege, how efficiently they can operate during the workshop, 
-and how critical the use of the methods/tools covered in the workshop may be for your future research or career. 
+The applicants will be selected based on the strength of their statement of purpose, as well as the 
+adequate support of their supervisors and their level of fundamental preparation. The lack of training 
+in specialized methods and software is not a problem. What is more important is how ready the applicant 
+is to absorb new knowledge, how efficiently they can operate during the workshop, and how critical 
+the use of the methods/tools covered in the workshop may be for your future research or career.
 
 
 ### Acknowledgement
