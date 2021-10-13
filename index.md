@@ -217,12 +217,18 @@ The details may vary and the order of topics may be changed, the topics may be o
 ### Who can apply
 
 This winter school is primarily for graduate students working in computational modeling of excited states and nonadiabatic 
-dynamics, both in abstract and atomistic applications/problems. The school aims to help researchers/students working either 
-in methodology development for nonadiabatic or quantum-classical dynamics and in applied studies of various types of solar 
-energy materials (photovoltaics, photocatalytics, etc.).
+dynamics, both in abstract and atomistic applications/problems. Senior undergraduate students with relevant experience and 
+training are also welcome.
+
+The school aims to help researchers/students working either in methodology development for nonadiabatic or quantum-classical 
+dynamics and in applied studies of various types of solar energy materials (photovoltaics, photocatalytics, etc.).
 
 Postdocs and researchers wishing to acquire practical experience with new simulation tools and expand their knowledge 
 in the areas of excited states and nonadiabatic dynamics are also welcome to participate.
+
+There is no restriction for the international applicants to participate, but keep in mind that the international travel
+expenses may not be covered in full. 
+
 
 ### How to apply to the school
 
@@ -252,11 +258,22 @@ in the areas of excited states and nonadiabatic dynamics are also welcome to par
 
 ### Selection and restrictions
 
+The anticipated class size is about 10 people, so the selection is competitive. In particular, this 
+means that we may limit the selection of applicants from the same research group or institution. 
+
 The applicants will be selected based on the strength of their statement of purpose, as well as the 
 adequate support of their supervisors and their level of fundamental preparation. The lack of training 
 in specialized methods and software is not a problem. What is more important is how ready the applicant 
 is to absorb new knowledge, how efficiently they can operate during the workshop, and how critical 
 the use of the methods/tools covered in the workshop may be for your future research or career.
+
+
+### Successful applicants
+
+The successful applicants will be provided with stipends to cover their logging, meal, and travel expenses.
+
+There is a limit on the travel expenses that we can reimburse, so any extra costs are up for the participants to cover. 
+This is especially the case for any potential international participnats. 
 
 
 ### Acknowledgement
