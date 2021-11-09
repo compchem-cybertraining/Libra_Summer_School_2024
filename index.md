@@ -205,11 +205,11 @@ The details may vary and the order of topics may be changed, the topics may be o
 ### Instructor and co-instructors
 
  * [Dr. Alexey Akimov](https://akimovlab.github.io/) - University at Buffalo, USA
- * [Mr. Mohammad Shakiba]()
+ * [Mr. Mohammad Shakiba]() - University at Buffalo, USA
 
 ### Administrative support
 
- * [Ms. Dori Sajdak](http://www.buffalo.edu/ccr/about-us/people/staff/sajdak.html)  - UB CCR system administrator, UB VPN, Open OnDemand, HPC accounts, etc.
+ * [UB CCR](http://www.buffalo.edu/ccr.html)  - UB Center for Computational Research (CCR), UB VPN, Open OnDemand, HPC accounts, etc.
  
 
 ## Participation

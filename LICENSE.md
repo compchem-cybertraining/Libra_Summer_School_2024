@@ -20,7 +20,7 @@ root: .
 | Name | Affiliation | Role and Software |
 |------|-----------------------|-------------------|
 | Dr. Alexey Akimov | University at Buffalo (UB), USA | Workshop coordinator, Instructor for **Libra, DFTB+, ErgoSCF, CP2k, etc.** |
-
+| Mr. Mohammad Shakiba | University at Buffalo (UB), USA |  Workshop co-instructor for  **Libra/DFTB+, Libra/CP2k, Libra/xTB, etc.**  |
 
 
 
