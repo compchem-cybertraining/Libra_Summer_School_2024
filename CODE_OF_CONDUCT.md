@@ -105,7 +105,8 @@ The details may vary and the order of topics may be changed, the topics may be o
 
 ## Participants 
 
-| Number | Name | Role | Institution | Country | Supervisor | 
+
+| Number | Name | Role | Institution | Country | Supervisor |
 |-----|------|------|-------------|---------|------------|
 | 1 | Qingxin Zhang | GRA-2 | University at Buffalo | US, NY | Michele Dupuis |
 | 2 | Kai T. Liu  | GRA-3 | Duke University | US, NC | David N. Beratan |
@@ -113,15 +114,14 @@ The details may vary and the order of topics may be changed, the topics may be o
 | 4 | Nina Glaser | GRA-1 | ETH Zurich | Switzerland | Markus Reiher |
 | 5 | Justin Kyle Kirkland | PD | Brigham Young University | US, UT | Daniel H. Ess |
 | 6 | Michael Davenport | GRA-2 | Brigham Young University | US, UT | Daniel H. Ess |
-| 7 | Austin Hill | GRA-2 | University of South Carolina | US, SC | Sophya Garashchuk | 
-| 8 | Braden M. Weight | GRA-2 | University of Rochester | US, NY | Pengfei (Frank) Huo | 
-| 9 | Matthew Dutra | PD | University of South Carolina | US, SC | Sophya Garashchuk | 
-| 10 | Kaili Jiang | PD | Rutgers University | US, NJ | Michele Pavanello | 
-| 11 | Yifan Yao | GRA-3 | University of Illinois Urbana Champaign  | US, IL | Andre Schleife  | 
+| 7 | Austin Hill | GRA-2 | University of South Carolina | US, SC | Sophya Garashchuk |
+| 8 | Braden M. Weight | GRA-2 | University of Rochester | US, NY | Pengfei (Frank) Huo |
+| 9 | Matthew Dutra | PD | University of South Carolina | US, SC | Sophya Garashchuk |
+| 10 | Kaili Jiang | PD | Rutgers University | US, NJ | Michele Pavanello |
+| 11 | Yifan Yao | GRA-3 | University of Illinois Urbana Champaign  | US, IL | Andre Schleife  |
 | 12 | Elizabeth Stippell | GRA-1 | University of Southern California | US, CA | Oleg Prezhdo |
 | 13 | Shriya Gumber | GRA-1 | University of Southern California | US, CA | Oleg Prezhdo |
 | 14 | Ali Kefayati | GRA-1 | University at Buffalo | US, NY | Vasilii Perebeinos |
-
 
 
 
