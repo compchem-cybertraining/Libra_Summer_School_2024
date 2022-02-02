@@ -103,8 +103,6 @@ The details may vary and the order of topics may be changed, the topics may be o
 
 ## Participants 
 
-## Participants 
-
 
 | Number | Name | Role | Institution | Country | Supervisor |
 |-----|------|------|-------------|---------|------------|
