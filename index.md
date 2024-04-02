@@ -10,11 +10,11 @@ humandate: "July 7-13, 2024"    # human-readable dates for the workshop (e.g., "
 humantime: "09:00 am - 5:00 pm EDT"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
 startdate: 2024-07-07      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2022-07-13        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
-instructor: ["Alexey Akimov"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
-helper: ["Mohammad Shakiba", "Daeho Han" ] # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
+instructor: ["Alexey Akimov", "Sophya Garashchuk", "Mohammad Shakiba", "Daeho Han" ] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
+helper: [ "Qingxin Zhang" ] # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["alexeyak@buffalo.edu"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
 collaborative_notes:   # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document (e.g., https://pad.carpentries.org/2015-01-01-euphoria)
-googleform: https://forms.gle/5PW6EKwAPHEPy5b6A
+googleform: https://forms.gle/ruv9AWqWRKYK25Y37
 carpentry: "sc"
 ---
 
@@ -25,7 +25,7 @@ permalink: index.html  # Is the only page that doesn't follow the pattern /:path
 {% endcomment %}
 
 
-# Libra Summer School on Excited States and Nonadiabatic Dynamics in Materials 2024
+# Libra Workshop and Summer School on Excited States and Nonadiabatic Dynamics 2024
 
 ### About this Summer School
 

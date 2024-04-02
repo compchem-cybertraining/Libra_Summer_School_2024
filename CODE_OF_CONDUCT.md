@@ -39,49 +39,80 @@ The details may vary and the order of topics may be changed, the topics may be o
     <td class="col-md-7">
       <ul>        
         <strong>Morning, 9 am - noon</strong>        
-        <li><a href="/_episodes/01-introduction">Worshop Opening: goals, logistics, details. Overview of the CCR CyberInfrastructure (30 min)</a></li>
-        <li><a href="/_episodes/02-python-git">Working with Git and GitHub. Theory and Hands on (60 min)</a> </li>
-        <li><a href="/_episodes/03-libra">General overview of Libra software (Lecture)(30 min)</a></li>
-        <li><a href="/_episodes/03-libra">General overview of Libra software (Hands on)(60 min)</a></li>
+        <li><a href="/_episodes/01-introduction">Worshop Opening: goals, logistics, details. Overview of the CCR CyberInfrastructure (60 min)</a></li>
+        <li><a href="/_episodes/02-libra">General overview of Libra software. Lecture (60 min)</a></li>
+        <li><a href="/_episodes/03-presentations">Presentation 1 (30 min)</a></li>
+        <li><a href="/_episodes/03-presentations">Presentation 2 (30 min)</a></li>
         <strong>Noon - 1:30 pm</strong> Lunch break
         <strong>Afternoon, 1:30 pm - 5:00 pm</strong>
-        <li><a href="/_episodes/03-libra">Theory of adiabatic and nonadiabatic dynamics. Lecture (120 min)</a></li>
-        <li><a href="/_episodes/03-libra">TSH and Ehrenfest dynamics with model Hamiltonians in Libra. Hands on (50 min)</a></li>
-        <li><a href="/_episodes/03-libra">TSH and Ehrenfest dynamics with model Hamiltonians in Libra. Hands on (50 min)</a></li>
+        <li><a href="/_episodes/03-presentations">Presentation 3 (30 min)</a></li>
+        <li><a href="/_episodes/03-presentations">Presentation 4 (30 min)</a></li>
+        <li><a href="/_episodes/03-presentations">Presentation 5 (30 min)</a></li>
+        <li><a href="/_episodes/03-presentations">Presentation 6 (30 min)</a></li>
+        <li><a href="/_episodes/03-presentations">Presentation 7 (30 min)</a></li>
+        <li><a href="/_episodes/03-presentations">Presentation 8 (30 min)</a></li>
+        <li><a href="/_episodes/03-presentations">Presentation 9 (30 min)</a></li>
       </ul>
     </td> 
-    <td class="col-md-2">Alexey Akimov</td>
+    <td class="col-md-2">Alexey Akimov, participants</td>
   </tr>
 
   <tr>
     <td class="col-md-3">July 9, 2024 (Day 2), Tuesday</td>
     <td class="col-md-7">
       <ul>
-        <li>General overview of the Libra code.</li> 
-        <li>TSH and Ehrenfest dynamics: model Hamiltonians in Libra.</li>
-        <li>Hierarchy of equations of motion (HEOM) calculations with Libra. </li>
-        <li>Wavepacket/DVR calculations with  Libra. </li>
+        <strong>Morning, 9 am - noon</strong>
+        <li><a href="/_episodes/02-libra">Model Hamiltonians and Quantum dynamics in Libra. Lecture (60 min)</a></li>
+        <li><a href="/_episodes/02-libra">Model Hamiltonians and Quantum dynamics in Libra. Demo and Hands on (80 min)</a></li>
+        <li><a href="/_episodes/02-libra">HEOM calcultaions in Libra. Brief lecture, Demo, and Hands on (40 min)</a></li>
+        <strong>Noon - 1:30 pm</strong> Lunch break
+        <strong>Afternoon, 1:30 pm - 5:00 pm</strong>
+        <li><a href="/_episodes/02-libra">TSH and Ehrenfest dynamics in Libra. Lecture and Demo (60 min)</a></li>
+        <li><a href="/_episodes/02-libra">TSH and Ehrenfest dynamics in Libra. Hands on. (120 min)</a></li>
+        <li><a href="/_episodes/02-libra">TSH and Ehrenfest dynamics in Libra: thinking of atomistic calculations (30 min)</a></li>
+        <li> </li>
       </ul>
     </td>
-    <td class="col-md-2">Alexey Akimov, Daeho Han</td>
+    <td class="col-md-2">Alexey Akimov</td>
   </tr>
 
   <tr>
     <td class="col-md-3">July 10, 2024 (Day 3), Wednesday</td>
     <td class="col-md-9">
       <ul>
-        <li>Electronic structure theory overview.</li>
-        <li>Hands on with CP2k/xTB.</li>
+        <strong>Morning, 9 am - noon</strong>        
+        <li><a href="/_episodes/03-libra"></a>Quantum Trajectories with Adaptive Gaussians (QTAG). Lecture and Demo (60 min)</li>
+        <li><a href="/_episodes/03-libra"></a>QTAG: Hands on, discussions (30 min)</li>
+        <li><a href="/_episodes/03-libra"></a></li>
+
+        <strong>Noon - 1:30 pm</strong> Lunch break
+        <strong>Afternoon, 1:30 pm - 5:00 pm</strong>
+        <li><a href="/_episodes/03-libra">Exact factorization (XF) theories and independent-trajectory XF methods. Lecture and Demo. (60 min)</a></li>
+        <li><a href="/_episodes/03-libra">XF methods: SHXF, MQCXF, MFXF dynamics on model systems. Demo and Hands on. (90 min)</a> </li>
+        <li><a href="/_episodes/03-libra">Using time-dependent width approximations in XF methods. (30 min)</a></li>
+
       </ul>
     </td>
-    <td class="col-md-2">Mohammad Shakiba, Alexey Akimov</td>
+    <td class="col-md-2">Sophya Garashchuk, Daeho Han, Alexey Akimov</td>
   </tr>
 
   <tr>
     <td class="col-md-3">July 11, 2024 (Day 4), Thursday</td>
     <td class="col-md-7">
       <ul>
-        <li>Atomistic simulations of NA-MD in materials, using Libra/DFTB+, Libra/cp2k, and Libra/QE interfaces.</li>
+        <strong>Morning, 9 am - noon. NA-MD in finite and condensed matter systems with TD-DFT and xTB</strong>        
+        <li><a href="/_episodes/03-libra">General overview of CP2K software with hands-on single-point and molecular dynamics 
+            calculations (60 min)</a></li>
+        <li><a href="/_episodes/03-libra">Computing overlaps, 
+            time-overlaps, and nonadiabatic couplings with Libra/CP2K interface: theory and hands-on (60 min)</a> </li>
+        <li><a href="/_episodes/03-libra">NA-MD in finite and condensed matter systems with TD-DFT and xTB: Generating single-particle 
+            and many-body excited states basis using Libra: theory and hands-on (60 min)</a></li>
+        <li><a href="/_episodes/03-libra"></a></li>
+        <strong>Noon - 1:30 pm</strong> Lunch break
+        <strong>Afternoon, 1:30 pm - 5:00 pm. NA-MD in finite and condensed matter systems with TD-DFT and xTB</strong>
+        <li><a href="/_episodes/03-libra">NA-MD in generated excited states basis with Libra (60 min)</a></li>
+        <li><a href="/_episodes/03-libra">Analyzing the dynamics results and generating timescales (60 min)</a></li>
+        <li><a href="/_episodes/03-libra"></a></li>
       </ul>
     </td>
     <td class="col-md-2">Mohammad Shakiba, Alexey Akimov</td>
@@ -91,7 +122,16 @@ The details may vary and the order of topics may be changed, the topics may be o
     <td class="col-md-3">July 12, 2024 (Day 5), Friday</td>
     <td class="col-md-7">
       <ul>
-        <li>Continued: Atomistic simulations of NA-MD in materials, using Libra/DFTB+, Libra/cp2k, and Libra/QE interfaces.</li>
+        <strong>Morning, 9 am - noon. Machine-learning for accelerating NA-MD calculations</strong>        
+        <li><a href="/_episodes/03-libra">General overview of the machine-learning theory and its use in electronic structure calculations and NA-MD (15 min)</a></li>
+        <li><a href="/_episodes/03-libra">Artificial neural networks NA-MD in Libra (45 min)</a> </li>
+        <li><a href="/_episodes/03-libra">Introduction to Kohn-Sham Hamiltonian mapping (KSHM) approach (30 min)</a></li>
+        <li><a href="/_episodes/03-libra">KSHM in Libra to accelerate overlap/time-overlap calculations (90 min)</a></li>
+        <strong>Noon - 1:30 pm</strong> Lunch break
+        <strong>Afternoon, 1:30 pm - 5:00 pm</strong>
+        <li><a href="/_episodes/03-libra">KSHM in Libra to accelerate overlap/time-overlap calculations (60 min)</a></li>
+        <li><a href="/_episodes/03-libra"></a></li>
+        <li><a href="/_episodes/03-libra"></a></li>
         <li>Additional capabilities of Libra: introduction to neural networks/machine learning.</li>
         <li>Closing. Exploring Buffalo.</li>
       </ul>

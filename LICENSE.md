@@ -17,6 +17,8 @@ root: .
 | Name | Affiliation | Role and Software |
 |------|-----------------------|-------------------|
 | Dr. Alexey Akimov | University at Buffalo (UB), USA | Workshop coordinator, Instructor for **Libra, model Hamiltonians, TSH methods, etc.** |
-| Dr. Daeho Han | University at Buffalo (UB), USA |  Workshop co-instructor for  **exact factorization, mixed quantum-classical methods, etc.**  |
-| Mr. Mohammad Shakiba | University at Buffalo (UB), USA |  Workshop co-instructor for  **Libra/CP2k, Libra/xTB, machine learning for NA-MD, etc.**  |
+| Dr. Sophya Garashchuk | University of South Carolina (USC), USA | Instructor for **Quantum trajectories with adaptive Gaussians (QTAG)** |
+| Dr. Daeho Han | University at Buffalo (UB), USA |  Instructor for  **exact factorization, mixed quantum-classical methods, etc.**  |
+| Mr. Mohammad Shakiba | University at Buffalo (UB), USA |  Instructor for  **Libra/CP2k, Libra/xTB, machine learning for NA-MD, etc.**  |
+| Mr. Qingxin Zhang | University at Buffalo (UB), USA |  Co-instructor for  **Libra/CP2k, Libra/xTB, general topics, etc.**  |
 
