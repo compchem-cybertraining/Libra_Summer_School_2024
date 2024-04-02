@@ -29,18 +29,18 @@ permalink: index.html  # Is the only page that doesn't follow the pattern /:path
 
 ### About this Summer School
 
-This Libra Summer School will provide training to the graduate students, postdocs, and researchers on applying 
-mixed quantum-classical methods for nonadiabatic and excited-state dynamics available in the Libra software. 
-The key theoretical and conceptual grounds of such simulations and practical details on the implementation and 
-execution of these methods will be covered. The participants will go through a series of practical hands-on 
-exercises to experience a range of methods and computational workflows available in the Libra software. 
-Modeling of excited state and nonadiabatic dynamics will be conducted for the abstract Hamiltonians and atomistic 
-models of materials. Some of the latest capabilities of Libra will be highlighted, such as using machine learning 
-approaches for nonadiabatic dynamics in materials, using exact factorization and Gaussian-wavepacket-based 
-trajectory surface hopping methods, or applying a broad range of decoherence corrections in various situations. 
-The participants will improve their knowledge of some electronic structure packages interfaced with Libra code, 
-particularly the CP2K package.
-
+This Libra Workshop and Summer School is an event for current and future [Libra software](https://github.com/Quantum-Dynamics-Hub/libra-code) 
+developers and users. Through the workshop component on the first day of the event (July 8), the participants will share their experiences using 
+the Libra software in their research as well as their contributions to its development. The 30-min presentation slots are allocated to each presenter. 
+We particularly encourage the international practitioners of the code to present on this day. The Summer School component will provide updates on 
+the most recent changes and additions to the code, to improve the community’s awareness of its new features and capabilities. It will also provide 
+conceptual and hands-on training to the participants on applying mixed quantum-classical methods for nonadiabatic and excited-state dynamics available 
+in the Libra software. The participants will go through a series of practical hands-on exercises to experience a range of methods and computational 
+workflows available in the Libra software. Modeling of excited state and nonadiabatic dynamics will be conducted for atomistic models of materials 
+and abstract Hamiltonians. Some of the latest capabilities of Libra will be highlighted, such as using machine learning approaches for nonadiabatic 
+dynamics in materials, using exact factorization, quantum trajectory with adaptive Gaussians (QTAG) as well as a broad range of decoherence correction 
+and surface hopping schemes. The computational workflows for atomistic simulations that rely on third-party electronic structure calculation codes 
+interfaced with the Libra code will be discussed.
 
 ### Keywords and topics
 
@@ -121,8 +121,10 @@ Display the contact email address set in the configuration file.
 ### Instructor and co-instructors
 
  * [Dr. Alexey Akimov](https://akimovlab.github.io/) - University at Buffalo, USA
- * [Dr. Daeho Han]() - University at Buffalo, USA
- * [Mr. Mohammad Shakiba]() - University at Buffalo, USA
+ * [Dr. Sophya Garashchuk](https://sc.edu/study/colleges_schools/chemistry_and_biochemistry/internal/research_groups/sophya_garashchuk/index.php) - University of South Carolina, USA
+ * [Dr. Daeho Han](https://akimovlab.github.io/group.html) - University at Buffalo, USA
+ * [Mr. Mohammad Shakiba](https://akimovlab.github.io/group.html) - University at Buffalo, USA
+ * [Mr. Qingxin Zhang](https://akimovlab.github.io/group.html) - University at Buffalo, USA
 
 ### Administrative support
 
@@ -133,14 +135,10 @@ Display the contact email address set in the configuration file.
 
 ### Who can apply
 
-This summer school is primarily for graduate students/postdocs/researchers working in computational modeling of excited states and nonadiabatic 
-dynamics, either abstract or atomistic applications/problems. Exceptional senior undergraduate students with relevant experience and 
-training may be considered.
-
-Due to the limited number of slots, only one participant per research group is allowed.
-
-There is no restriction for the international applicants to participate, but keep in mind that the international travel
-expenses may not be covered in full. 
+This summer school is for graduate students, postdocs, and researchers working in computational modeling of excited states and 
+nonadiabatic dynamics, either abstract or atomistic applications/problems. Exceptional senior undergraduate students with relevant experience and 
+training may be considered. As indicated in the synopsis, the preference will be given to the past or present Libra users and developers. However, 
+we also welcome other applicants who have strong plans for using or contributing to the code in the near future.
 
 
 ### How to apply to the school
@@ -157,16 +155,16 @@ expenses may not be covered in full.
    * your prior experience with Libra package or a plan on how you envision to leverage Libra software in your research;
          
    2.3. request your advisor to submit a letter of recommendation for you to the following email: "alexeyak AT buffalo DOT edu", 
-   please replace "AT" and "DOT" with the corresponding characters
+   please replace "AT" and "DOT" with the corresponding characters (except when invited by the organizers)
 
-3. Complete the <a href="https://forms.gle/5PW6EKwAPHEPy5b6A" target="_blank" rel="nofollow">**Registration form**</a>
+3. Complete the <a href="https://forms.gle/ruv9AWqWRKYK25Y37" target="_blank" rel="nofollow">**Registration form**</a>
 
 
 ### Important dates
-   * Workshop application materials are due 5 pm EST, Dec. 3, 2021
-   * Applicants are notified on their admission by 5 pm EST, Dec. 10, 2021
-   * Workshop starts: 9 am EST, July 8, 2024  (welcome dinner on the evening before)
-   * Workshop ends: 5 pm EST, July 12, 2024 (departure next day)
+   * The Application is due 5 pm EDT, March 7, 2024
+   * Applicants are notified on their admission by 5 pm EDT, March 13, 2024
+   * Workshop starts: 9 am EDT, July 8, 2024  (welcome dinner on the evening before)
+   * Workshop ends: 5 pm EDT, July 12, 2024 (departure next day)
 
 
 ### Selection and restrictions
@@ -175,23 +173,25 @@ The anticipated class size is about 10 people, so the selection is competitive. 
 means that we may limit the selection of applicants from the same research group or institution. 
 
 The applicants will be selected based on the strength of their statement of purpose, as well as the 
-adequate support of their supervisors and their level of fundamental preparation. The lack of training 
-in specialized methods and software is not a problem. What is more important is how ready the applicant 
-is to absorb new knowledge, how efficiently they can operate during the workshop, and how critical 
-the use of the methods/tools covered in the workshop may be for your future research or career.
+adequate support of their supervisors and their level of fundamental preparation. It is important to realize
+that since the focus of this event in on Libra software, its use and development, the priority will be
+given to the past and current Libra users and developers, as well as to those having strong plans of using
+the code in their research in the near future.
 
 
 ### Successful applicants
 
-The successful applicants will be provided with stipends toward covering their logging, meal, and travel expenses.
+The successful applicants **will be provided with stipends toward covering their logging, meal, and travel expenses.**
 
 There is a limit on the travel expenses that we can reimburse, so any extra costs are up for the participants to cover. 
-This is especially the case for any potential international participants. 
+This is especially the case for any potential international participants. For international participants coming in person
+we may be able to cover only a fraction of your expenses. The Buffalo-area students are also eligible to apply, but will
+not be eligible for the stipends.
 
 
 ### Acknowledgement
 
-This workshop is made possible by the NSF-CSSI program. Thank you!
+This workshop is made possible by the NSF OAC program, [Award 1931366](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1931366&HistoricalAwards=false). Thank you!
 
 
 {% include links.md %}
