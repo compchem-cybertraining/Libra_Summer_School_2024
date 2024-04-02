@@ -161,8 +161,8 @@ we also welcome other applicants who have strong plans for using or contributing
 
 
 ### Important dates
-   * The Application is due 5 pm EDT, March 7, 2024
-   * Applicants are notified on their admission by 5 pm EDT, March 13, 2024
+   * The Application is due 5 pm EDT, May 7, 2024
+   * Applicants are notified on their admission by 5 pm EDT, May 13, 2024
    * Workshop starts: 9 am EDT, July 8, 2024  (welcome dinner on the evening before)
    * Workshop ends: 5 pm EDT, July 12, 2024 (departure next day)
 
