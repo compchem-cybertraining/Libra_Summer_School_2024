@@ -33,7 +33,7 @@ This Libra Workshop and Summer School is an event for current and future [Libra 
 developers and users. Through the workshop component on the first day of the event (July 8), the participants will share their experiences using 
 the Libra software in their research as well as their contributions to its development. The 30-min presentation slots are allocated to each presenter. 
 We particularly encourage the international practitioners of the code to present on this day. The Summer School component will provide updates on 
-the most recent changes and additions to the code, to improve the community’s awareness of its new features and capabilities. It will also provide 
+the most recent changes and additions to the code, to improve the community's awareness of its new features and capabilities. It will also provide 
 conceptual and hands-on training to the participants on applying mixed quantum-classical methods for nonadiabatic and excited-state dynamics available 
 in the Libra software. The participants will go through a series of practical hands-on exercises to experience a range of methods and computational 
 workflows available in the Libra software. Modeling of excited state and nonadiabatic dynamics will be conducted for atomistic models of materials 
