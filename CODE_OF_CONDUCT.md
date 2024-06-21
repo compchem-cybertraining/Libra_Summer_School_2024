@@ -40,18 +40,18 @@ The details may vary and the order of topics may be changed, the topics may be o
       <ul>        
         <p><strong>Morning, 9 am - noon</strong></p>
         <li><a href="/_episodes/01-introduction">Worshop Opening: goals, logistics, details. Overview of the CCR CyberInfrastructure. Setups. (60 min)</a></li>
-        <li><a href="/_episodes/02-libra">General overview of Libra software. Lecture (60 min)</a></li>
-        <li><a href="/_episodes/03-presentations">Presentation 1 (30 min)</a></li>
-        <li><a href="/_episodes/03-presentations">Presentation 2 (30 min)</a></li>
+        <li><a href="/_episodes/01-introduction">General overview of Libra software. Lecture (60 min)</a></li>
+        <li><a href="/_episodes/01-introduction">Presentation 1 (30 min)</a></li>
+        <li><a href="/_episodes/01-introduction">Presentation 2 (30 min)</a></li>
         <p><strong>Noon - 1:30 pm</strong> Lunch break</p>
         <p><strong>Afternoon, 1:30 pm - 5:00 pm</strong></p>
-        <li><a href="/_episodes/03-presentations">Presentation 3 (30 min)</a></li>
-        <li><a href="/_episodes/03-presentations">Presentation 4 (30 min)</a></li>
-        <li><a href="/_episodes/03-presentations">Presentation 5 (30 min)</a></li>
-        <li><a href="/_episodes/03-presentations">Presentation 6 (30 min)</a></li>
-        <li><a href="/_episodes/03-presentations">Presentation 7 (30 min)</a></li>
-        <li><a href="/_episodes/03-presentations">Presentation 8 (30 min)</a></li>
-        <li><a href="/_episodes/03-presentations">Presentation 9 (30 min)</a></li>
+        <li><a href="/_episodes/01-introduction">Presentation 3 (30 min)</a></li>
+        <li><a href="/_episodes/01-introduction">Presentation 4 (30 min)</a></li>
+        <li><a href="/_episodes/01-introduction">Presentation 5 (30 min)</a></li>
+        <li><a href="/_episodes/01-introduction">Presentation 6 (30 min)</a></li>
+        <li><a href="/_episodes/01-introduction">Presentation 7 (30 min)</a></li>
+        <li><a href="/_episodes/01-introduction">Presentation 8 (30 min)</a></li>
+        <li><a href="/_episodes/01-introduction">Presentation 9 (30 min)</a></li>
       </ul>
     </td> 
     <td class="col-md-2">Alexey Akimov, participants</td>
@@ -62,15 +62,15 @@ The details may vary and the order of topics may be changed, the topics may be o
     <td class="col-md-7">
       <ul>
         <p><strong>Morning, 9 am - noon</strong></p>
-        <li><a href="/_episodes/02-libra">SOFT calcultaions in Libra. Brief lecture, demo, and Hands on (60 min)</a></li>
-        <li><a href="/_episodes/02-libra">HEOM calcultaions in Libra. Brief lecture, demo, and Hands on (60 min)</a></li>
-        <li><a href="/_episodes/02-libra">Discussions and Collaborations (60 min)</a></li>
+        <li><a href="/_episodes/02-soft-heom-tsh">SOFT calcultaions in Libra. Brief lecture, demo, and Hands on (60 min)</a></li>
+        <li><a href="/_episodes/02-soft-heom-tsh">HEOM calcultaions in Libra. Brief lecture, demo, and Hands on (60 min)</a></li>
+        <li><a href="/_episodes/02-soft-heom-tsh">Discussions and Collaborations (60 min)</a></li>
         <p><strong>Noon - 1:30 pm</strong> Lunch break</p>
         <p><strong>Afternoon, 1:30 pm - 5:00 pm</strong></p>
-        <li><a href="/_episodes/02-libra">TSH and Ehrenfest dynamics with model Hamiltonians: methodologies, algorithms, recipes. Lecture (60 min)</a></li>
-        <li><a href="/_episodes/02-libra">TSH and Ehrenfest dynamics with model Hamiltonians: Demo and Hands on (60 min)</a></li>
-        <li><a href="/_episodes/02-libra">TSH and Ehrenfest dynamics in Libra: thinking of atomistic calculations (30 min)</a></li>
-        <li><a href="/_episodes/02-libra">Discussions and Collaborations (60 min)</a></li>
+        <li><a href="/_episodes/02-soft-heom-tsh">TSH and Ehrenfest dynamics with model Hamiltonians: methodologies, algorithms, recipes. Lecture (60 min)</a></li>
+        <li><a href="/_episodes/02-soft-heom-tsh">TSH and Ehrenfest dynamics with model Hamiltonians: Demo and Hands on (60 min)</a></li>
+        <li><a href="/_episodes/02-soft-heom-tsh">TSH and Ehrenfest dynamics in Libra: thinking of atomistic calculations (30 min)</a></li>
+        <li><a href="/_episodes/02-soft-heom-tsh">Discussions and Collaborations (60 min)</a></li>
       </ul>
     </td>
     <td class="col-md-2">Alexey Akimov</td>
@@ -81,16 +81,16 @@ The details may vary and the order of topics may be changed, the topics may be o
     <td class="col-md-9">
       <ul>
         <p><strong>Morning, 9 am - noon</strong></p>
-        <li><a href="/_episodes/02-libra"></a>Quantum Trajectories with Adaptive Gaussians (QTAG). Lecture (40 min)</li>
+        <li><a href="/_episodes/03-vista-qtag-xf"></a>Quantum Trajectories with Adaptive Gaussians (QTAG). Lecture (40 min)</li>
         <li><a href="https://quantum-dynamics-hub.github.io/VISTA/"></a>VISTA seminar 73</li>
-        <li><a href="/_episodes/02-libra"></a>QTAG: Demo (30 min)</li>
+        <li><a href="/_episodes/03-vista-qtag-xf"></a>QTAG: Demo (30 min)</li>
         <p><strong>Noon - 1:30 pm</strong> Lunch break</p>
         <p><strong>Afternoon, 1:30 pm - 5:00 pm</strong></p>
-        <li><a href="/_episodes/02-libra"></a>Hands on with QTAG (30 min)</li>
-        <li><a href="/_episodes/02-libra">Exact factorization (XF) theories and independent-trajectory XF methods. Lecture. (60 min)</a></li>
-        <li><a href="/_episodes/02-libra">XF methods: SHXF, MQCXF, MFXF dynamics on model systems. Demo and Hands on (60 min)</a> </li>
-        <li><a href="/_episodes/02-libra">Using time-dependent width approximations in XF methods. Demo. (30 min)</a></li>
-        <li><a href="/_episodes/02-libra">Discussions and Collaborations (60 min)</a></li>
+        <li><a href="/_episodes/03-vista-qtag-xf"></a>Hands on with QTAG (30 min)</li>
+        <li><a href="/_episodes/03-vista-qtag-xf">Exact factorization (XF) theories and independent-trajectory XF methods. Lecture. (60 min)</a></li>
+        <li><a href="/_episodes/03-vista-qtag-xf">XF methods: SHXF, MQCXF, MFXF dynamics on model systems. Demo and Hands on (60 min)</a> </li>
+        <li><a href="/_episodes/03-vista-qtag-xf">Using time-dependent width approximations in XF methods. Demo. (30 min)</a></li>
+        <li><a href="/_episodes/03-vista-qtag-xf">Discussions and Collaborations (60 min)</a></li>
       </ul>
     </td>
     <td class="col-md-2">Sophya Garashchuk, Daeho Han, Alexey Akimov</td>
@@ -101,19 +101,18 @@ The details may vary and the order of topics may be changed, the topics may be o
     <td class="col-md-7">                              
       <ul>
         <p><strong>Morning, 9 am - noon.</strong></p>
-        <li><a href="/_episodes/02-libra">Overview of the atomistic NA-MD calculations workflow with Libra. Lecture (60 min)</a></li>
-        <li><a href="/_episodes/02-libra">Conducting electronic structure calculation with CP2K. Demo and Hands on. (60 min)</a></li>
-        <li><a href="/_episodes/02-libra">NBRA NA-MD workflow with Libra/CP2K interface (steps 2 and 3) with DFT and xTB. Demo and Hands on (90 min)</a> </li>
-        <li><a href="/_episodes/02-libra"></a></li>
+        <li><a href="/_episodes/04-atomistic-namd">Overview of the atomistic NA-MD calculations workflow with Libra. Lecture (30 min)</a></li>
+        <li><a href="/_episodes/04-atomistic-namd">Conducting electronic structure calculation with CP2K. Demo and Hands on. (60 min)</a></li>
+        <li><a href="/_episodes/04-atomistic-namd">NBRA NA-MD workflow with Libra/CP2K interface (steps 2 and 3) with DFT and xTB. Demo and Hands on (90 min)</a> </li>
         <p><strong>Noon - 1:30 pm</strong> Lunch break</p>
         <p><strong>Afternoon, 1:30 pm - 5:00 pm.</strong></p>
-        <li><a href="/_episodes/02-libra">NBRA NA-MD workflow with Libra/CP2K interface (step 4). Demo and Hands on (60 min)</a> </li>
-        <li><a href="/_episodes/02-libra">Analyzing the dynamics results and generating timescales. Demo and Hands on (60 min)</a></li>
-        <li><a href="/_episodes/02-libra">Known pitfalls. Lecture and discussion. (30 min)</a></li>
-        <li><a href="/_episodes/02-libra">Discussions and Collaborations (60 min)</a></li>
+        <li><a href="/_episodes/04-atomistic-namd">NBRA NA-MD workflow with Libra/CP2K interface (step 4). Demo and Hands on (60 min)</a> </li>
+        <li><a href="/_episodes/04-atomistic-namd">Analyzing the dynamics results and generating timescales. Demo and Hands on (60 min)</a></li>
+        <li><a href="/_episodes/04-atomistic-namd">Known pitfalls. Lecture and discussion. (30 min)</a></li>
+        <li><a href="/_episodes/04-atomistic-namd">Discussions and Collaborations (60 min)</a></li>
       </ul>
     </td>
-    <td class="col-md-2">Mohammad Shakiba, Alexey Akimov</td>
+    <td class="col-md-2">Mohammad Shakiba, Qingxin Zhang, Alexey Akimov</td>
   </tr>
 
   <tr>
@@ -121,16 +120,17 @@ The details may vary and the order of topics may be changed, the topics may be o
     <td class="col-md-7">
       <ul>
         <p><strong>Morning, 9 am - noon.</strong></p>
-        <li><a href="/_episodes/02-libra">Hands on with Python packages and tools for ML. Demo and Hands on (60 min)</a></li>
-        <li><a href="/_episodes/02-libra">Introduction to Kohn-Sham Hamiltonian mapping (KSHM) approach. Lecture. (30 min)</a></li>
-        <li><a href="/_episodes/02-libra">KSHM in Libra to accelerate overlap/time-overlap calculations. Demo and Hands on (90 min)</a></li>
+        <li><a href="/_episodes/05-ml-namd">Hands on with Python packages and tools for ML. Demo and Hands on (60 min)</a></li>
+        <li><a href="/_episodes/05-ml-namd">Introduction to Kohn-Sham Hamiltonian mapping (KSHM) approach. Lecture. (30 min)</a></li>
+        <li><a href="/_episodes/05-ml-namd">KSHM in Libra to accelerate overlap/time-overlap calculations. Demo and Hands on (90 min)</a></li>
         <p><strong>Noon - 1:30 pm</strong> Lunch break</p>
         <p><strong>Afternoon, 1:30 pm - 5:00 pm</strong></p>
-        <li><a href="/_episodes/02-libra">The KSHM workflow for NA-MD of materials. Demo and Hands on (60 min)</a></li>
-        <li><a href="/_episodes/02-libra">Discussions and Collaborations (150 min)</a></li>
+        <li><a href="/_episodes/05-ml-namd">The KSHM workflow for NA-MD of materials. Demo and Hands on (60 min)</a></li>
+        <li><a href="/_episodes/05-ml-namd">Discussions and Collaborations (150 min)</a></li>
         <li>Closing. Exploring Buffalo.</li>
       </ul>
     </td>
+    <td class="col-md-2">Mohammad Shakiba, Alexey Akimov</td>
   </tr>
   
   <tr>
