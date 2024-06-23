@@ -6,7 +6,11 @@ title: "Schedule and Participants"
 ## Workshop Objectives
 
 * Get **practical experience with Libra software**, including modeling excited states phenomena in model and atomistic systems
+* Get the **up-to-date information of Libra's capabilities**
+* Learn about the **best practices** of NA-MD and related simulations with the Libra code
 * Get an overview of **theoretical background** for corresponding computational methods
+* Learn how to **use the Libra code in your research** and initiate such activities
+* Learn how to become a **contributor to the Libra code**
 
 
 
