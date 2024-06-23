@@ -10,7 +10,6 @@ title: "1. Day 1: Opening and setups, Libra overview, Presentations"
 
 # 2. Logistic and setups
 
-
 # 3. Libra overview
 [Slides](../files/Alexey_Akimov/Libra-July8.pdf)
 
