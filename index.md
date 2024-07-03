@@ -118,7 +118,7 @@ Display the contact email address set in the configuration file.
 </p>
 
 
-### Instructor and co-instructors
+### Instructor, co-instructors, and helpers
 
  * [Dr. Alexey Akimov](https://akimovlab.github.io/) - University at Buffalo, USA
  * [Dr. Sophya Garashchuk](https://sc.edu/study/colleges_schools/chemistry_and_biochemistry/internal/research_groups/sophya_garashchuk/index.php) - University of South Carolina, USA

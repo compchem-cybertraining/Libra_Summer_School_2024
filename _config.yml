@@ -49,9 +49,8 @@ training_site: "https://carpentries.github.io/instructor-training"
 cc_by_human: "https://creativecommons.org/licenses/by/4.0/"
 example_repo: "https://github.com/compchem-cybertraining/Cyber_Training_Workshop_2021"
 example_site: "https://compchem-cybertraining.github.io/Cyber_Training_Workshop_2021/"
-workshop_repo: "https://github.com/compchem-cybertraining/Cyber_Training_Workshop_2021"
-workshop_site: "https://compchem-cybertraining.github.io/Cyber_Training_Workshop_2021/"
-
+workshop_repo: "https://github.com/compchem-cybertraining/Libra_Summer_School_2024"
+workshop_site: "https://compchem-cybertraining.github.io/Libra_Summer_School_2024/"
 
 # Surveys.
 swc_pre_survey: "https://www.surveymonkey.com/r/swc_pre_workshop_v1?workshop_id="

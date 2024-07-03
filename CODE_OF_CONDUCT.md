@@ -45,17 +45,17 @@ The details may vary and the order of topics may be changed, the topics may be o
         <p><strong>Morning, 9 am - noon</strong></p>
         <li><a href="/_episodes/01-introduction">Worshop Opening: goals, logistics, details. Overview of the CCR CyberInfrastructure. Setups. (60 min)</a></li>
         <li><a href="/_episodes/01-introduction">General overview of Libra software. Lecture (60 min)</a></li>
-        <li><a href="/_episodes/01-introduction">Presentation 1 (30 min)</a></li>
-        <li><a href="/_episodes/01-introduction">Presentation 2 (30 min)</a></li>
+        <li><a href="/_episodes/01-introduction">Presentation 1: Wei Li(30 min)</a></li>
+        <li><a href="/_episodes/01-introduction">Presentation 2: Lili Rassouli (30 min)</a></li>
         <p><strong>Noon - 1:30 pm</strong> Lunch break</p>
         <p><strong>Afternoon, 1:30 pm - 5:00 pm</strong></p>
-        <li><a href="/_episodes/01-introduction">Presentation 3 (30 min)</a></li>
-        <li><a href="/_episodes/01-introduction">Presentation 4 (30 min)</a></li>
-        <li><a href="/_episodes/01-introduction">Presentation 5 (30 min)</a></li>
-        <li><a href="/_episodes/01-introduction">Presentation 6 (30 min)</a></li>
-        <li><a href="/_episodes/01-introduction">Presentation 7 (30 min)</a></li>
-        <li><a href="/_episodes/01-introduction">Presentation 8 (30 min)</a></li>
-        <li><a href="/_episodes/01-introduction">Presentation 9 (30 min)</a></li>
+        <li><a href="/_episodes/01-introduction">Presentation 3: Mohammad Shakiba (30 min)</a></li>
+        <li><a href="/_episodes/01-introduction">Presentation 4: Fulu Zheng (30 min)</a></li>
+        <li><a href="/_episodes/01-introduction">Presentation 5: Qingxin Zhang (30 min)</a></li>
+        <li><a href="/_episodes/01-introduction">Presentation 6: Miguel Recio (30 min)</a></li>
+        <li><a href="/_episodes/01-introduction">Presentation 7: Daeho Han (30 min)</a></li>
+        <li><a href="/_episodes/01-introduction">Presentation 8: Dora Voeroes (30 min)</a></li>
+        <li><a href="/_episodes/01-introduction">Presentation 9: Kevin Walsh (30 min)</a></li>
       </ul>
     </td> 
     <td class="col-md-2">Alexey Akimov, participants</td>
