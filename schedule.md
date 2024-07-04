@@ -66,15 +66,14 @@ The details may vary and the order of topics may be changed, the topics may be o
     <td class="col-md-7">
       <ul>
         <p><strong>Morning, 9 am - noon</strong></p>
-        <li><a href="/_episodes/02-soft-heom-tsh">SOFT calcultaions in Libra. Brief lecture, demo, and Hands on (60 min)</a></li>
-        <li><a href="/_episodes/02-soft-heom-tsh">HEOM calcultaions in Libra. Brief lecture, demo, and Hands on (60 min)</a></li>
+        <li><a href="/_episodes/02-soft-heom-tsh">Define model Hamiltonians (60 min)</a></li>
+        <li><a href="/_episodes/02-soft-heom-tsh">SOFT calcultaions in Libra (60 min)</a></li>
         <li><a href="/_episodes/02-soft-heom-tsh">Discussions and Collaborations (60 min)</a></li>
         <p><strong>Noon - 1:30 pm</strong> Lunch break</p>
         <p><strong>Afternoon, 1:30 pm - 5:00 pm</strong></p>
-        <li><a href="/_episodes/02-soft-heom-tsh">TSH and Ehrenfest dynamics with model Hamiltonians: methodologies, algorithms, recipes. Lecture (60 min)</a></li>
-        <li><a href="/_episodes/02-soft-heom-tsh">TSH and Ehrenfest dynamics with model Hamiltonians: Demo and Hands on (60 min)</a></li>
-        <li><a href="/_episodes/02-soft-heom-tsh">TSH and Ehrenfest dynamics in Libra: thinking of atomistic calculations (30 min)</a></li>
-        <li><a href="/_episodes/02-soft-heom-tsh">Discussions and Collaborations (60 min)</a></li>
+        <li><a href="/_episodes/02-soft-heom-tsh">TSH and Ehrenfest dynamics with 1D model Hamiltonians (120 min)</a></li>
+        <li><a href="/_episodes/02-soft-heom-tsh">HEOM for spin-boson Hamiltonian (60 min)</a></li>
+        <li><a href="/_episodes/02-soft-heom-tsh">Discussions and Collaborations (30 min)</a></li>
       </ul>
     </td>
     <td class="col-md-2">Alexey Akimov</td>
@@ -92,8 +91,7 @@ The details may vary and the order of topics may be changed, the topics may be o
         <p><strong>Afternoon, 1:30 pm - 5:00 pm</strong></p>
         <li><a href="/_episodes/03-vista-qtag-xf"></a>Hands on with QTAG (30 min)</li>
         <li><a href="/_episodes/03-vista-qtag-xf">Exact factorization (XF) theories and independent-trajectory XF methods. Lecture. (60 min)</a></li>
-        <li><a href="/_episodes/03-vista-qtag-xf">XF methods: SHXF, MQCXF, MFXF dynamics on model systems. Demo and Hands on (60 min)</a> </li>
-        <li><a href="/_episodes/03-vista-qtag-xf">Using time-dependent width approximations in XF methods. Demo. (30 min)</a></li>
+        <li><a href="/_episodes/03-vista-qtag-xf">XF methods: SHXF, MQCXF, MFXF dynamics on model systems. Demo and Hands on (90 min)</a> </li>
         <li><a href="/_episodes/03-vista-qtag-xf">Discussions and Collaborations (60 min)</a></li>
       </ul>
     </td>
