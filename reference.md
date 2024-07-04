@@ -1,5 +1,6 @@
 ---
-layout: reference
+layout: page
+title: References
 ---
 
 ## Glossary
