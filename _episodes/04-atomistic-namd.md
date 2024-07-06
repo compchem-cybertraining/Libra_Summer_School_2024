@@ -28,23 +28,45 @@ Links:
 
 Links:
 
-## 2.4. NBRA NA-MD workflow with Libra/CP2K interface (step 4). Demo and Hands on (60 min)
+## 2.4. NBRA NA-MD workflow with Libra/CP2K interface. Step 4: the dynamics. Demo and Hands on (60 min)
 
 [Slides]()
 
 Links:
 
-## 2.5. Analyzing the dynamics results and generating timescales. Demo and Hands on (60 min)
+* Complete this tutorial: [14_many_recipes](https://github.com/compchem-cybertraining/Tutorials_Libra/tree/master/6_dynamics/2_nbra_workflows/14_many_recipes)
+
+* Tasks:
+
+  - compute relaxation and recombination dynamics for your system using various NBRA-based NA-MD approaches
+
+
+## 2.5. Analyzing the dynamics results and computing the timescales. Demo and Hands on (60 min)
 
 [Slides]()
 
 Links:
 
-## 2.6. Known pitfalls. Lecture and discussion. (30 min)
+
+## 2.6. NAC-free approach: Belyaev-Lebedev Landau-Zener (BLLZ) (30 min)
 
 [Slides]()
 
 Links:
+
+* Complete this tutorial: [15_step4_bllz](https://github.com/compchem-cybertraining/Tutorials_Libra/tree/master/6_dynamics/2_nbra_workflows/15_step4_bllz)
+
+* Tasks:
+
+  - compute the relaxation/recombination dynamics for your system using BLLZ workflow
+
+
+## 2.7. Known pitfalls. Lecture and discussion. (30 min)
+
+[Slides]()
+
+Links:
+
 
 
 # 3. Videorecordings

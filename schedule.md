@@ -110,8 +110,9 @@ The details may vary and the order of topics may be changed, the topics may be o
         <p><strong>Afternoon, 1:30 pm - 5:00 pm.</strong></p>
         <li><a href="/_episodes/04-atomistic-namd">NBRA NA-MD workflow with Libra/CP2K interface (step 4). Demo and Hands on (60 min)</a> </li>
         <li><a href="/_episodes/04-atomistic-namd">Analyzing the dynamics results and generating timescales. Demo and Hands on (60 min)</a></li>
-        <li><a href="/_episodes/04-atomistic-namd">Known pitfalls. Lecture and discussion. (30 min)</a></li>
-        <li><a href="/_episodes/04-atomistic-namd">Discussions and Collaborations (60 min)</a></li>
+        <li><a href="/_episodes/04-atomistic-namd">NAC-free approach: Belyaev-Lebedev Landau-Zener (BLLZ) (30 min)</a></li>
+        <li><a href="/_episodes/04-atomistic-namd">Known pitfalls. Lecture and discussion.(30 min)</a></li>
+        <li><a href="/_episodes/04-atomistic-namd">Discussions and Collaborations (30 min)</a></li>
       </ul>
     </td>
     <td class="col-md-2">Mohammad Shakiba, Qingxin Zhang, Alexey Akimov</td>
