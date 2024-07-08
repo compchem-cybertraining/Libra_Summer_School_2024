@@ -12,7 +12,7 @@ title: "3. Day 3: QTAG and XF methods for Model Hamiltonians, VISTA"
 
 ## 2.1. Quantum Trajectories with Adaptive Gaussians (QTAG). Lecture (40 min) + Demo (30 min) + Hands on (30 min)
 
-[Slides]()
+[Slides](../files/sonya/qtag-garashchuk-libra-S24.pdf)
 
 Links:
 
@@ -24,7 +24,7 @@ Hands on after lunch break
 
 * Tasks: 
 
-  - there are plenty exercises suggested in this tutorial - complete some of themy
+  - there are plenty exercises suggested in this tutorial - complete some of them
 
   - compute the QTAG dynamics for your custom potential - compare to TSH and exact calculations
   
@@ -51,7 +51,7 @@ Links:
 
 * Tasks: 
 
-  - run the XF calculations for your potential using different methods
+  - run QTAG calculations 
 
         - try different methods: SHXF, MQCXF, MFXF
 
