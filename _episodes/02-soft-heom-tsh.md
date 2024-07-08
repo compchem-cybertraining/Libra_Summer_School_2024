@@ -50,7 +50,11 @@ Links:
 
 ## 3.2. TSH and Ehrenfest dynamics with 1D model Hamiltonians (120 min)
 
-[Slides]()
+[Slides, Part 1](../files/Alexey_Akimov/July9-afternoon-tsh-part1.pdf)
+
+[Slides, Part 2](../files/Alexey_Akimov/July9-afternoon-tsh-part2.pdf)
+
+[Slides, Part 3](../files/Alexey_Akimov/July9-afternoon-tsh-part3.pdf)
 
 Links:
 
