@@ -85,7 +85,7 @@ Links:
 
 ## 3.3. HEOM for spin-boson Hamiltonian (60 min)
 
-[Slides]()
+[Slides](../files/Alexey_Akimov/July9-afternoon-HEOM.pdf)
 
 Links:
 
