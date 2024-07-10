@@ -38,12 +38,12 @@ Hands on after lunch break
 
 ## 2.3. Exact factorization (XF) theories and independent-trajectory XF methods. Lecture. (60 min)
 
-[Slides]()
+[Slides](../files/Daeho_Han/July10-afternoon-xf-theory.pdf)
 
 
 ## 2.4. XF methods: SHXF, MQCXF, MFXF dynamics on model systems. Demo and Hands on (90 min)
 
-[Slides]()
+[Slides](../files/Daeho_Han/July10-afternoon-xf-handson.pdf)
 
 Links:
 
