@@ -69,5 +69,11 @@ Links:
 
 ## 3.1. Morning session
 
-## 3.2. Afternoon session
+## 3.2. Zoom recordings:
+
+<iframe src="https://ub.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=c8107883-1b4a-46d0-97ea-b1a900eb8269
+&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=false&interactivity=all" height="405" width="720" 
+style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player" 
+aria-description="Libra Workshop and Summer School, Day 3, Part 1" ></iframe>
+
 

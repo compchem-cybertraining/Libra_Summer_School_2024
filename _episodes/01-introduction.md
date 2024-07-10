@@ -76,3 +76,9 @@ aria-description="Libra Workshop and Summer School: Day 1, morning" ></iframe>
 style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player" 
 aria-description="Libra Workshop and Summer School: Day 1, part 2" ></iframe>
 
+<iframe src="https://ub.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=c71712e6-486a-4243-879f-b1a701759379
+&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=false&interactivity=all" height="405" width="720" 
+style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player" 
+aria-description="Libra Workshop and Summer School, Day 1, Part 3" ></iframe>
+
+
