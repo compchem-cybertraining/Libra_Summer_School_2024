@@ -57,7 +57,22 @@ title: "1. Day 1: Opening and setups, Libra overview, Presentations"
 
 # 5. Videorecordings
 
-## 5.1. Morning session
+## 5.1. UB Recording:
 
-## 5.2. Afternoon session
+<iframe src="https://ub.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=7698d272-5257-41fb-be89-b18f01178901
+&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=false&interactivity=all" height="405" width="720" 
+style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player" 
+aria-description="Libra Workshop and Summer School on Excited States and Nonadiabatic Dynamics 2024: Day 1" ></iframe>
+
+## 5.2. Zoom recordings:
+
+<iframe src="https://ub.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=5d6a7a62-7543-414c-8b7c-b1a7011127d4
+&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=false&interactivity=all" height="405" width="720" 
+style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player" 
+aria-description="Libra Workshop and Summer School: Day 1, morning" ></iframe>
+
+<iframe src="https://ub.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=4fddd3e3-b66b-4974-80b9-b1a70111bd6e
+&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=false&interactivity=all" height="405" width="720" 
+style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player" 
+aria-description="Libra Workshop and Summer School: Day 1, part 2" ></iframe>
 

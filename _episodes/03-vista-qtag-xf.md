@@ -12,7 +12,7 @@ title: "3. Day 3: QTAG and XF methods for Model Hamiltonians, VISTA"
 
 ## 2.1. Quantum Trajectories with Adaptive Gaussians (QTAG). Lecture (40 min) + Demo (30 min) + Hands on (30 min)
 
-[Slides]()
+[Slides](../files/Sophya_Garashchuk/July10-morning-qtag.pdf)
 
 Links:
 
