@@ -12,9 +12,12 @@ title: "4. Day 4: NBRA-NA-MD workflow for atomistic systems"
 
 ## 2.1. Overview of the atomistic NA-MD calculations workflow with Libra. Lecture (30 min)
 
-[Slides]()
+[Slides](../files/Alexey_Akimov/July11-morning-NBRA.pdf)
 
 Links:
+
+* Complete the tutorial: [9_step4](https://github.com/compchem-cybertraining/Tutorials_Libra/blob/master/6_dynamics/2_nbra_workflows/9_step4/tutorial.ipynb)
+
 
 ## 2.2. Conducting electronic structure calculation with CP2K. Demo and Hands on. (60 min)
 
