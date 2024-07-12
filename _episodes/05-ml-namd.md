@@ -31,6 +31,20 @@ Links:
 ## 2.4. The KSHM workflow for NA-MD of materials. Demo and Hands on (60 min)
 
 
+## 2.6. NAC-free approach: Belyaev-Lebedev Landau-Zener (BLLZ) (30 min)
+
+[Slides]()
+
+Links:
+
+* Complete this tutorial: [15_step4_bllz](https://github.com/compchem-cybertraining/Tutorials_Libra/tree/master/6_dynamics/2_nbra_workflows/15_step4_bllz)
+
+* Tasks:
+
+  - compute the relaxation/recombination dynamics for your system using BLLZ workflow
+
+
+
 # 3. Videorecordings
 
 ## 3.1. Morning session

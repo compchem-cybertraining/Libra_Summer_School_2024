@@ -67,7 +67,12 @@ Links:
 
 # 3. Videorecordings
 
-## 3.1. Morning session
+## 3.1. UB recording:
+
+<iframe src="https://ub.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=49fb8e79-7d4a-4fcf-a951-b18f01178a09
+&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=false&interactivity=all" height="405" width="720" 
+style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player" 
+aria-description="Libra Workshop and Summer School on Excited States and Nonadiabatic Dynamics 2024, Day 3" ></iframe>
 
 ## 3.2. Zoom recordings:
 
@@ -75,5 +80,12 @@ Links:
 &autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=false&interactivity=all" height="405" width="720" 
 style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player" 
 aria-description="Libra Workshop and Summer School, Day 3, Part 1" ></iframe>
+
+
+<iframe src="https://ub.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=186bc5f0-af05-445f-aaa0-b1a9016cd097
+&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=false&interactivity=all" height="405" width="720" 
+style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player" 
+aria-description="Libra Workshop and Summer School, Day 3, Part 2" ></iframe>
+
 
 
